@@ -1,0 +1,19 @@
+{
+    "name": "com.firedreamer.causality-core",
+    "version": "0.0.1",
+    "displayName": "Causality Engine Core",
+    "description": "This package contains the core scripting for the Causality Engine, i.e. Menus, Networking, etc. ",
+    "unity": "2021.3",
+    "unityRelease": "4f1",
+    "dependencies": {},
+    "keywords": [
+        "core",
+        "gameplay",
+        "framework"
+    ],
+    "author": {
+        "name": "Ashe O'Hawkes",
+        "email": "theaidency@gmail.com",
+        "url": "https://asheofaces.github.com"
+    }
+}
